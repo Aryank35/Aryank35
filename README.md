@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
+  <img height="190" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
 </div>
 
 ###
@@ -10,6 +10,11 @@
 
 <h5 align="left">- B.Tech student with a focus on front-end web development<br>- Passionate about creating impactful web experiences<br>- Continuously expanding skills and knowledge in web development<br>- Dedicated to learning new technologies and frameworks<br>- Committed to delivering high-quality and user-friendly web applications<br>- Actively seeking opportunities to contribute to open-source projects<br>- Enthusiastic about collaborating with other developers and designers<br>- Striving to stay updated with the latest trends and best practices in web development</h5>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Aryank35/Aryank35/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -17,7 +22,9 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -48,6 +55,8 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aryank35&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
